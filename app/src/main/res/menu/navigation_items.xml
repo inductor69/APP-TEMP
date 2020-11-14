@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/faug"
+        android:icon="@drawable/faug_icon"
+        android:title="Trending Video Status" />
+    <item
+        android:id="@+id/dauntless"
+        android:icon="@drawable/dauntles_icon"
+        android:title=" Status and Instagram Stories
+
+" />
+    <item
+        android:id="@+id/wildRift"
+        android:icon="@drawable/wild_drift_icon"
+        android:title="Love and Romantic Video Status
+
+" />
+    <item
+        android:id="@+id/chronicles"
+        android:icon="@drawable/chonicle_icon"
+        android:title="Sad Status Video
+
+" />
+    <item
+        android:id="@+id/pokemonUnite"
+        android:icon="@drawable/pokemon_icon"
+        android:title="Short Videos
+
+" />
+    <item
+        android:id="@+id/odyssey"
+        android:icon="@drawable/odessry_icon"
+        android:title=" Motivational and Inspirational Video Status
+
+" />
+    <item
+        android:id="@+id/apexLegends"
+        android:icon="@drawable/apex_icon"
+        android:title="video Status
+
+" />
+    <item
+        android:id="@+id/h1z1"
+        android:icon="@drawable/h1zi_icon"
+        android:title="Festival/Greetings Wishes and Quotes
+
+" />
+    <item
+        android:id="@+id/immortal"
+        android:icon="@drawable/immortal_icon"
+        android:title=" Funny Videos
+
+" />
+    <item
+        android:id="@+id/exileMobile"
+        android:icon="@drawable/exile_icon"
+        android:title="Devotional Videos
+
+" />
+</menu>
